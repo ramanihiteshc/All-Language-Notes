@@ -10,7 +10,7 @@
 
 ## 📚 Table of Contents
 
-### 📃 Data
+### 📃 Language
 
 <details>
 <summary>View cheatsheets</summary>
@@ -34,7 +34,7 @@
 
 </details>
 
-### 📦 Data
+### 📦 Backend
 
 <details>
 <summary>View cheatsheets</summary>
@@ -56,7 +56,7 @@
 - [Sails.js](Data/sails.js)
   </details>
 
-### 🌐 Data
+### 🌐 Frontend
 
 <details>
 <summary>View cheatsheets</summary>
@@ -82,11 +82,11 @@
 
 #### SQL
 
-- [MySQL](Databases/mysql.sh)
+- [MySQL](Data/mysql.sh)
 
 #### NoSQL
 
-- [Redis](Databases/redis.sh)
+- [Redis](Data/redis.sh)
   </details>
 
 ### 🔧 Data
