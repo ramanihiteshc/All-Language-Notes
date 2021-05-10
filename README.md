@@ -1,6 +1,3 @@
-# All-Language-Notes
-All language Note , database , Xcode , Programming Language backend , frontend 
-
 
 
 <img width="900" height="300" src="https://github.com/RamaniHiteshc/Android-Use-Library/blob/main/facebook.png" alt="hr">
@@ -13,69 +10,69 @@ All language Note , database , Xcode , Programming Language backend , frontend
 
 ## 📚 Table of Contents
 
-### 📃 data
+### 📃 Data
 
 <details>
 <summary>View cheatsheets</summary>
 
 #### Command line interface
 
-- [Bash](data/bash.sh)
+- [Bash](Data/bash.sh)
 
 #### Imperative
 
-- [C](data/C.txt)
-- [C#](data/C%23.txt)
-- [Go](data/golang.md)
-- [Java](data/java.md)
-- [PHP](data/php.php)
-- [Python](data/python.md)
+- [C](Data/C.txt)
+- [C#](Data/C%23.txt)
+- [Go](Data/golang.md)
+- [Java](Data/java.md)
+- [PHP](Data/php.php)
+- [Python](Data/python.md)
 
 #### Functional
 
-- [JavaScript](data/javascript.js)
+- [JavaScript](Data/javascript.js)
 
 </details>
 
-### 📦 data
+### 📦 Data
 
 <details>
 <summary>View cheatsheets</summary>
 
 #### PHP
 
-- [Laravel](data/laravel.php)
+- [Laravel](Data/laravel.php)
 
 #### Python
 
-- [Django](data/django.py)
+- [Django](Data/django.py)
 
 #### Javascript
 
-- [Adonis.js](data/adonis.js)
-- [Feathers.js](data/feathers.js)
-- [Moleculer](data/moleculer.js)
-- [Node.js](data/node.js)
-- [Sails.js](data/sails.js)
+- [Adonis.js](Data/adonis.js)
+- [Feathers.js](Data/feathers.js)
+- [Moleculer](Data/moleculer.js)
+- [Node.js](Data/node.js)
+- [Sails.js](Data/sails.js)
   </details>
 
-### 🌐 data
+### 🌐 Data
 
 <details>
 <summary>View cheatsheets</summary>
 
 #### Basics
 
-- [HTML5](data/html5.html)
+- [HTML5](Data/html5.html)
 
 #### Frameworks
 
-- [React.js](data/react.js)
-- [Vue.js](data/vue.js)
-- [Tailwind.css](data/tailwind.css)
-- [Ember.js](data/ember.js)
-- [Angular (2+)](data/angular.js)
-- [AngularJS](data/angularjs.js)
+- [React.js](Data/react.js)
+- [Vue.js](Data/vue.js)
+- [Tailwind.css](Data/tailwind.css)
+- [Ember.js](Data/ember.js)
+- [Angular (2+)](Data/angular.js)
+- [AngularJS](Data/angularjs.js)
   </details>
 
 ### 🗃️ Databases
@@ -85,41 +82,40 @@ All language Note , database , Xcode , Programming Language backend , frontend
 
 #### SQL
 
-- [MySQL](databases/mysql.sh)
+- [MySQL](Databases/mysql.sh)
 
 #### NoSQL
 
-- [Redis](databases/redis.sh)
+- [Redis](Databases/redis.sh)
   </details>
 
-### 🔧 data
+### 🔧 Data
 
 <details>
 <summary>View cheatsheets</summary>
 
 #### Development
 
-- [cURL](data/curl.sh)
-- [Drush](data/drush.sh)
-- [Elasticsearch](data/elasticsearch.js)
-- [Emmet](data/emmet.md)
-- [Git](data/git.sh)
-- [Puppeteer](data/puppeteer.js)
-- [Sublime Text](data/sublime_text.md)
-- [VIM](data/vim.txt)
-- [Visual Studio Code](data/vscode.md)
-- [Xcode](data/xcode.txt)
+- [cURL](Data/curl.sh)
+- [Drush](Data/drush.sh)
+- [Elasticsearch](Data/elasticsearch.js)
+- [Emmet](Data/emmet.md)
+- [Git](Data/git.sh)
+- [Puppeteer](Data/puppeteer.js)
+- [Sublime Text](Data/sublime_text.md)
+- [VIM](Data/vim.txt)
+- [Visual Studio Code](Data/vscode.md)
+- [Xcode](Data/xcode.txt)
 
 #### Infrastructure
 
-- [AWS CLI](data/aws.sh)
-- [Docker](data/docker.sh)
-- [Heroku CLI](data/heroku.sh)
-- [Kubernetes](data/kubernetes.md)
-- [Nanobox Boxfile](data/nanobox_boxfile.yml)
-- [Nanobox CLI](data/nanobox_cli.sh)
-- [Nginx](data/nginx.sh)
-- [PM2](data/pm2.sh)
-- [Ubuntu](data/ubuntu.sh)
+- [AWS CLI](Data/aws.sh)
+- [Docker](Data/docker.sh)
+- [Heroku CLI](Data/heroku.sh)
+- [Kubernetes](Data/kubernetes.md)
+- [Nanobox Boxfile](Data/nanobox_boxfile.yml)
+- [Nanobox CLI](Data/nanobox_cli.sh)
+- [Nginx](Data/nginx.sh)
+- [PM2](Data/pm2.sh)
+- [Ubuntu](Data/ubuntu.sh)
   </details>
-
